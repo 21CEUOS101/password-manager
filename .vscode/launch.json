@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PasswordManagerApplication<password_manager>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ashish.password_manager.PasswordManagerApplication",
+            "projectName": "password_manager",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
